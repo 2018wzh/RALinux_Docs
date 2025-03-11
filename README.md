@@ -13,6 +13,9 @@
     - [ ] GUI
 - [ ] Rewrite assembly code using C/C++
 - [ ] Modify code to support cross-architecture
+    - [ ] amd64
+    - [ ] armhf
+    - [ ] risc-v
 - [ ] Implement of Linux APIs
     - [ ] POSIX syscalls
     - [ ] Graphics libraries
