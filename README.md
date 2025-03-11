@@ -1,8 +1,7 @@
-# RALinux_Docs
-## Roadmap
-- [ ] CnC_Remastered_Collection source code
+# RALinux
+- [x] CnC_Remastered_Collection source code
     - [x] Build
-    - [ ] Test
+    - [x] Test
 - [ ] CnC_Red_Alert source code
     - [ ] Build
     - [ ] Test
